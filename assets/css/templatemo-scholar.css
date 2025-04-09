@@ -422,38 +422,6 @@ h2.accordion-header button {
    color: #fff; font-size: 15px; font-weight: 500; margin-top: 15px; }
 
 
-/* Team */
-.team {
-   margin-top: 100px; padding-top: 140px; }
-
-.team-member {
-   position: relative; }
-
-.team-member:hover img {
-   top: -120px; }
-
-.team-member img {
-   max-width: 220px; border-radius: 50%; position: absolute; top: -110px; left: 50%; transform: translateX(-110px); transition: all .3s; }
-
-.team-member .main-content {
-   border-radius: 25px; padding: 140px 30px 40px 30px; background-color: #f1f0fe; text-align: center; }
-
-.team-member .main-content span.category {
-   color: #CE1126; font-size: 15px; }
-
-.team-member .main-content h4 {
-   font-size: 22px; font-weight: 600; margin-top: 8px; margin-bottom: 15px; }
-
-.team-member .main-content ul li {
-   display: inline-block; margin: 0px 2px; }
-
-.team-member .main-content ul li a {
-   background-color: #fff; color: #CE1126; display: inline-block; text-align: center; line-height: 40px; font-size: 18px; width: 40px; height: 40px; border-radius: 50%; transition: all .3s; }
-
-.team-member .main-content ul li a:hover {
-   background-color: #CE1126; color: #fff; }
-
-
 /* Testimonials */
 .testimonials {
    position: relative; padding: 80px 0px; margin-top: 150px; }
@@ -495,45 +463,7 @@ h2.accordion-header button {
    opacity: 1; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.15); }
 
 
-/* Events */
-.events .section-heading {
-   margin-bottom: 100px; }
-
-.events .item {
-   background-color: #f1f0fe; border-radius: 25px; position: relative; padding: 40px; margin-bottom: 96px; }
-
-.events .item .image {
-   position: relative; }
-
-.events .item .image img {
-   position: absolute; border-radius: 25px; max-width: 260px; left: 0; top: -70px; }
-
-.events .item ul li {
-   display: inline-block; width: 17.5%; vertical-align: middle; }
-
-.events .item ul li:first-child {
-   width: 35%; }
-
-.events .item ul li:nth-of-type(2) {
-   width: 28%; }
-
-.events .item ul li span.category {
-   font-size: 14px; text-transform: uppercase; color: #CE1126; background-color: #fff; padding: 8px 20px; border-radius: 25px; font-weight: 500; display: inline-block; margin-bottom: 20px; }
-
-.events .item ul li h4 {
-   font-size: 22px; font-weight: 600; }
-
-.events .item ul li span {
-   display: inline-block; font-size: 14px; color: #4a4a4a; margin-bottom: 10px; }
-
-.events .item ul li h6 {
-   font-size: 16px; color: #CE1126; font-weight: 600; }
-
-.events .item a {
-   position: absolute; right: 0; top: 22px; background-color: #CE1126; width: 60px; height: 120px; display: inline-block; text-align: center; line-height: 120px; font-size: 18px; z-index: 1; color: #fff; border-radius: 60px 0px 0px 60px; }
-
 /*Enroll Now*/
-/* Enroll Now Section */
 .enroll-now {
    margin-top: 80px;
    position: relative;
@@ -730,8 +660,6 @@ h2.accordion-header button {
    color: #fff;
    border-radius: 50%;
 }
-
-
 
 
 
