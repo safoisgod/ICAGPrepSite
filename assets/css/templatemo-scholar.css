@@ -572,22 +572,24 @@ h2.accordion-header button {
 }
 
 /* Styling for button */
-.enroll-now button {
+.orange-button {
+   background-color: #f37500; /* Ghana yellow */
+   color: #000;
+   padding: 12px 25px;
    border: none;
-   height: 50px;
-   font-size: 14px;
    font-weight: 600;
-   background-color: #fff;
-   padding: 0 25px;
-   border-radius: 25px;
-   color: #CE1126;
-   transition: all 0.4s;
-   cursor: pointer;
-}
-
-.enroll-now button:hover {
-   opacity: 0.8;
-}
+   font-size: 16px;
+   border-radius: 5px;
+   transition: 0.3s ease-in-out;
+   text-decoration: none;
+   display: inline-block;
+ }
+ 
+ .orange-button:hover {
+   background-color: #ce1126; /* Ghana red */
+   color: #fff;
+ }
+ 
 
 /* Special Offer Box */
 .enroll-now .special-offer {
