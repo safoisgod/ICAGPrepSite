@@ -121,7 +121,7 @@ img {
    transition: all 0.3s ease 0s; display: inline-block; }
 
 .header-area .main-nav .logo h1 {
-   font-size: 36px; text-transform: uppercase; min-width: 450px; color: #fff; font-weight: 600; margin-right: 20px; padding-right: 20px; border-right: 1px solid rgba(250, 250, 250, 0.3); }
+   font-size: 36px; text-transform: uppercase; min-width: 500px; color: #fff; font-weight: 600; margin-right: 20px; padding-right: 20px; border-right: 1px solid rgba(250, 250, 250, 0.3); }
 
    @media (max-width: 767px) {
       .header-area .main-nav .logo h1 {
